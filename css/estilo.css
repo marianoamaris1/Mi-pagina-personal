@@ -1,0 +1,194 @@
+body {
+
+  margin: 0;
+  text-align: center;
+}
+
+
+.perfil{
+  border-radius: 200px;
+  width: 200px;
+  height: 200px;
+}
+
+
+.peon{
+
+  width: 100px;
+  height: 100px;
+
+}
+
+hr{
+border-style: dotted none none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width:5%;}
+
+
+.idiomas{
+  width: 100px;
+  height: 100px;
+
+}
+
+
+
+
+h1 {
+  color: #ffda77;
+  margin-top: 0;
+  font-family: sans-serif, cursive;
+  font-size: 3em;
+  margin: 50px auto 0px auto;
+
+}
+
+h2 {
+  color: #ffda77;
+  font-family: sans-serif, cursive;
+  font-size: 2.5rem;
+}
+
+.skill-row{
+  margin:100px auto 100px auto;
+  width: 50%;
+
+
+}
+
+
+h3 {
+  color: #ffda77;
+  font-family: sans-serif, cursive;
+}
+
+p{
+  font-weight: normal;
+  font-family: sans-serif, cursive;
+  font-style: italic;
+
+}
+
+
+.top-box {
+  background-color: #8db596;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.mid-box {
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+
+.copy{
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+.mid-box{
+
+
+
+
+}
+a{
+  color: white;
+}
+a:hover{
+  color:black;
+}
+
+
+.bot-box{
+  background-color: #bedbbb;
+  padding: 50px 0 20px;
+
+
+
+
+
+
+
+}
+.footer-link{
+  text-decoration: none;
+  padding: 1em;
+}
+.contact-me{
+
+
+}
+.BUTTON_VBD{
+
+  background: #BEDBBB;
+  background-image: -webkit-linear-gradient(top, #BEDBBB, #BEDBBB);
+  background-image: -moz-linear-gradient(top, #BEDBBB, #BEDBBB);
+  background-image: -ms-linear-gradient(top, #BEDBBB, #BEDBBB);
+  background-image: -o-linear-gradient(top, #BEDBBB, #BEDBBB);
+  background-image: -webkit-gradient(to bottom, #BEDBBB, #BEDBBB);
+  -webkit-border-radius: 29px;
+  -moz-border-radius: 29px;
+  border-radius: 29px;
+  color: #FFFFFF;
+  font-family: serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 4px;
+
+
+
+  text-shadow: 10px 1px 20px #000000;
+  border: solid #FFFFFF 7px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+
+
+/*
+.mid-box{
+background-color: blue;
+width: 200px;
+height: 200px;
+border:solid 20px;
+padding: 20px;
+margin-left: 260px;
+}
+
+.bot-box{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border:solid 10px;
+  margin-left: 540px;
+}
+<div class="mid-box">
+<h2>Estudiante</h2>
+</div>
+<div class="bot-box">
+<h2>Programador 2020</h2>
+</div>
+/*
